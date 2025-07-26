@@ -11,7 +11,16 @@
 </div>
 <br/>
 
-<img align="center" src="https://github-readme-stats-five-orcin-39.vercel.app/api/top-langs/?username=muerewa&bg_color=00000000&text_color=c9d1d9&title_color=58a6ff&hide_border=true&layout=compact&langs_count=8&count_private=true" />
+<table>
+<tr>
+    <td width="300">
+    <img align="center" src="https://github-readme-stats-five-orcin-39.vercel.app/api/top-langs/?username=muerewa&bg_color=00000000&text_color=c9d1d9&title_color=58a6ff&hide_border=true&layout=compact&langs_count=8&count_private=true" />
+    </td>
+    <td>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muerewa&bg_color=00000000&color=c9d1d9&line=ff6b35&point=58a6ff&area=true&hide_border=true)](https://github.com/muerewa">
+    </td>
+</tr>
+</table>
 
 ## 👋 Hi!
 
