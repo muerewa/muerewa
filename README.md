@@ -15,9 +15,12 @@
 
 ## 👋 Hi!
 
-🔭 **Currently learning:** Golang, backend development, CLI applications  
+🌱 **Learning:** Golang and developing backend solutions  
+
 💻 **Specialize in:** server-side application development  
+
 🛠️ **Technologies:** Go, Docker, PostgreSQL, Redis, gRPC  
+
 🎯 **Interested in:** microservices architecture and high-load systems
 
 
