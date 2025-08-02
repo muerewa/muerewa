@@ -24,7 +24,7 @@
 
 ## 👋 Hi!
 
-🌱 **Learning:** Golang and developing backend solutions  
+🌱 **Learning:** Golang, cybersecurity and developing backend solutions  
 
 💻 **Specialize in:** server-side application development  
 
